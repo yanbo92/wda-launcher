@@ -7,7 +7,7 @@ tidevice -u [手机udid] wdaproxy -p [端口号]
 ```
 
 
-##准备工作
+## 准备工作
 - 首先，如果你使用的是Windows电脑，你需要安装iTunes或者爱思助手，他们会帮你安装一些必须的依赖，比如Usbmuxd。
 - 其次，运行该程序需要手机上装有WebDriverAgentRunner，通常跑过自动化的手机都会有（不包括Monkey）。它长这样：
 
